@@ -1,12 +1,5 @@
-.header nav {
-
+.header {
   background-color: black;
   width: 100%;
   height: 10%;
-
-}
-
-.header nav ul li{
-  float: center;
-  display: inline-block;
 }
