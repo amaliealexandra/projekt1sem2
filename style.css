@@ -1,9 +1,8 @@
-.logo a {
-  height: 10%;
-  width: 10%;
-}
-
 .header a {
   float: center;
   display: inline-block;
+}
+
+.nav {
+  float: right;
 }
