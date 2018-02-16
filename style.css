@@ -2,3 +2,8 @@
   height: 10%;
   width: 10%;
 }
+
+.header {
+  float: center;
+  display: inline-block;
+}
