@@ -6,3 +6,9 @@
 .nav {
   float: right;
 }
+
+.nav li {
+  list-style: none;
+  float: left;
+
+}
