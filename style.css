@@ -1,4 +1,4 @@
-.header {
+.header nav {
 
   background: black;
   width: 100%;
@@ -6,7 +6,7 @@
 
 }
 
-.header ul li{
+.header nav ul li{
   float: center;
   display: inline-block;
 }
