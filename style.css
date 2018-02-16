@@ -3,7 +3,7 @@
   width: 10%;
 }
 
-.header a {
-  float: center;
+.nav{
+  float:right;
   display: inline-block;
 }
