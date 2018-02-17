@@ -34,3 +34,38 @@ a {
   color: #000000;
   background-color: #E0E0E0;
   }
+
+
+
+  ul {
+    padding: 0;
+    width: 100%;
+  }
+
+  li {
+    display: inline;
+  }
+
+  a {
+    outline: none;
+    text-decoration: none;
+    display: inline-block;
+    width: 19.5%;
+    margin-right: 0.625%;
+    text-align: center;
+    line-height: 3;
+    color: black;
+  }
+
+  li:last-child a {
+    margin-right: 0;
+  }
+
+  a:hover {
+    background: orange;
+  }
+
+  a:active {
+    background: red;
+    color: white;
+  }
