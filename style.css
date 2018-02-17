@@ -3,7 +3,7 @@ body {
 }
 
 .header a {
-=======
+
 .logo a {
   height: 10%;
   width: 10%;
@@ -11,7 +11,6 @@ body {
 
 .nav{
   float:right;
->>>>>>> 2f32aa4e2d24cf4fafebba8418158f2cd8f62b5b
   display: inline-block;
 }
 
