@@ -1,12 +1,6 @@
 body {
   padding: 0;
-    background-color: #DED9D6; }
-
-    .content{
-      background-color: #D6D1AF;
-      width: 100%;
-      height: 80px;
-      display: flex; }
+}
 
 .header{
 
@@ -14,6 +8,7 @@ body {
   width: 100%;
   height: 80px;
   display: flex;
+  background-color: #212121;
   }
 
 .nav{
@@ -24,8 +19,6 @@ body {
 
 .logo {
   flex: 1;
-  height: 10%;
-  width: 10%;
   margin-left: 10%;
 }
 
@@ -41,10 +34,9 @@ body {
 
 a {
   text-decoration: none;
-  color: #000000;
+  color: white;
   }
 
-
-
-
-    }
+#banner {
+  width: 100%;
+}
