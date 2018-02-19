@@ -1,6 +1,7 @@
 body {
   padding: 0;
   background-color: #D3D3D3;
+  font-size: 20px;
 }
 
 .header{
@@ -44,6 +45,7 @@ a {
 
 #title {
   text-align: center;
+  font-size: 50px;
 }
 
 #billede1 {
@@ -53,6 +55,6 @@ float: left;
 
 #teksttilbillede1 {
   margin-right: 10%;
-  margin-left: 40%;
+  margin-left: 50%;
 
 }
