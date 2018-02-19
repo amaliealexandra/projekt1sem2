@@ -1,7 +1,10 @@
 body {
-  padding: 0;
+  padding: 0px;
   background-color: #D3D3D3;
   font-size: 20px;
+  margin: 0px;
+
+
 }
 
 .header{
@@ -56,5 +59,20 @@ float: left;
 #teksttilbillede1 {
   margin-right: 10%;
   margin-left: 50%;
+  margin-bottom: 4%;
+}
 
+#billede2 {
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+#teksttilbillede2 {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+
+#indhold {
+  line-height: 1.5;
 }
