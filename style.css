@@ -19,6 +19,7 @@ body {
 .nav{
   float:right;
   display: inline-block;
+  margin-right: 10%;
 }
 
 .logo {
