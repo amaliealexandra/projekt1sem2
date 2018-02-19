@@ -24,8 +24,9 @@ body {
 
 .logo {
   flex: 1;
-  height: 50%;
-  width: 50%;
+  height: 10%;
+  width: 10%;
+  margin-left: 10%;
 }
 
 .navul {
