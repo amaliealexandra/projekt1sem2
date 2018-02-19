@@ -1,5 +1,6 @@
 body {
   padding: 0;
+  background-color: #D3D3D3;
 }
 
 .header{
@@ -39,4 +40,19 @@ a {
 
 #banner {
   width: 100%;
+}
+
+#title {
+  text-align: center;
+}
+
+#billede1 {
+margin-left: 10%;
+float: left;
+}
+
+#teksttilbillede1 {
+  margin-right: 10%;
+  margin-left: 40%;
+
 }
