@@ -16,6 +16,18 @@ body {
   background-color: #212121;
   }
 
+.header a:hover {
+  border: 1px solid #ffffff;
+  color: #ffffff;
+}
+
+
+.header .current a {
+  background: #ff533d;
+  border: 1px solid #ff533d;
+  color: #ffffff;
+}
+
 .nav{
   float:right;
   display: inline-block;
@@ -72,7 +84,14 @@ float: left;
   margin-right: 10%;
 }
 
-
 #indhold {
   line-height: 1.5;
+}
+
+footer{
+  padding: 20px;
+  margin-top: 90px;
+  color: #ffffff;
+  background: #212121;
+  text-align: center;
 }
