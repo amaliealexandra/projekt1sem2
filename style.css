@@ -89,7 +89,7 @@ float: left;
 }
 
 #text2 {
-  float: center;
+  text-align: center;
 }
 
 footer{
