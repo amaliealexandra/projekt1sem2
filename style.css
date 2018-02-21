@@ -88,6 +88,10 @@ float: left;
   line-height: 1.5;
 }
 
+#text2 {
+  display: flex;
+}
+
 footer{
   padding: 20px;
   margin-top: 90px;
